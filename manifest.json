@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "DubEnderDragon's 4D Skin Packs",
+        "uuid": "ec8467e5-a43d-45d6-b961-d9d5eb3cc905",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "de3a5f93-0162-4cbe-8332-f1a61d272bc3",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

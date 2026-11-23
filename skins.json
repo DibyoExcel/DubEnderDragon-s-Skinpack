@@ -1,0 +1,407 @@
+{
+    "skins": [
+        {
+            "localization_name": "DubEnderDragon",
+            "geometry": "geometry.ender_dragon",
+            "texture": "dubenderdragon.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Boydrak",
+            "geometry": "geometry.ender_dragon",
+            "texture": "boydrak.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Garo",
+            "geometry": "geometry.ender_dragon",
+            "texture": "garo.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Jony",
+            "geometry": "geometry.ender_dragon",
+            "texture": "jony.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Malfaren",
+            "geometry": "geometry.ender_dragon",
+            "texture": "malfaren.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Kali",
+            "geometry": "geometry.ender_dragon",
+            "texture": "kali.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "AnAmmar",
+            "geometry": "geometry.ender_dragon",
+            "texture": "anammar.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "RetroDrak",
+            "geometry": "geometry.ender_dragon",
+            "texture": "retrodrak.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "DubEnderDragon_humanoid",
+            "geometry": "geometry.humanoid_ender_dragon",
+            "texture": "dubenderdragon.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Boydrak_humanoid",
+            "geometry": "geometry.humanoid_ender_dragon",
+            "texture": "boydrak.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Garo_humanoid",
+            "geometry": "geometry.humanoid_ender_dragon",
+            "texture": "garo.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Jony_humanoid",
+            "geometry": "geometry.humanoid_ender_dragon",
+            "texture": "jony.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Malfaren_humanoid",
+            "geometry": "geometry.humanoid_ender_dragon",
+            "texture": "malfaren.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Kali_humanoid",
+            "geometry": "geometry.humanoid_ender_dragon",
+            "texture": "kali.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "AnAmmar_humanoid",
+            "geometry": "geometry.humanoid_ender_dragon",
+            "texture": "anammar.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "RetroDrak_humanoid",
+            "geometry": "geometry.humanoid_ender_dragon",
+            "texture": "retrodrak.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "DubEnderDragon_humanoid_stick",
+            "geometry": "geometry.humanoid_ender_dragon_stick",
+            "texture": "dubenderdragon.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "DubEnderDragon_humanoid_giant",
+            "geometry": "geometry.humanoid_ender_dragon_giant",
+            "texture": "dubenderdragon.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Boydrak_humanoid_giant",
+            "geometry": "geometry.humanoid_ender_dragon_giant",
+            "texture": "boydrak.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Garo_humanoid_giant",
+            "geometry": "geometry.humanoid_ender_dragon_giant",
+            "texture": "garo.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Jony_humanoid_giant",
+            "geometry": "geometry.humanoid_ender_dragon_giant",
+            "texture": "jony.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Malfaren_humanoid_giant",
+            "geometry": "geometry.humanoid_ender_dragon_giant",
+            "texture": "malfaren.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Kali_humanoid_giant",
+            "geometry": "geometry.humanoid_ender_dragon_giant",
+            "texture": "kali.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "AnAmmar_humanoid_giant",
+            "geometry": "geometry.humanoid_ender_dragon_giant",
+            "texture": "anammar.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "RetroDrak_humanoid_giant",
+            "geometry": "geometry.humanoid_ender_dragon_giant",
+            "texture": "retrodrak.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "DubEnderDragon_humanoid_tiny",
+            "geometry": "geometry.humanoid_ender_dragon_tiny",
+            "texture": "dubenderdragon.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Boydrak_humanoid_tiny",
+            "geometry": "geometry.humanoid_ender_dragon_tiny",
+            "texture": "boydrak.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Garo_humanoid_tiny",
+            "geometry": "geometry.humanoid_ender_dragon_tiny",
+            "texture": "garo.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Jony_humanoid_tiny",
+            "geometry": "geometry.humanoid_ender_dragon_tiny",
+            "texture": "jony.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Malfaren_humanoid_tiny",
+            "geometry": "geometry.humanoid_ender_dragon_tiny",
+            "texture": "malfaren.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Kali_humanoid_tiny",
+            "geometry": "geometry.humanoid_ender_dragon_tiny",
+            "texture": "kali.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "AnAmmar_humanoid_tiny",
+            "geometry": "geometry.humanoid_ender_dragon_tiny",
+            "texture": "anammar.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "RetroDrak_humanoid_tiny",
+            "geometry": "geometry.humanoid_ender_dragon_tiny",
+            "texture": "retrodrak.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Invis",
+            "geometry": "geometry.null",
+            "texture": "dubenderdragon.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "Player_round",
+            "geometry": "geometry.player_round",
+            "texture": "dubenderdragon_player.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "Player_big_round_head",
+            "geometry": "geometry.big_round_head",
+            "texture": "dubenderdragon_player.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "Zarrel",
+            "geometry": "geometry.zarrel",
+            "texture": "zarrel.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Zarrel_black",
+            "geometry": "geometry.zarrel",
+            "texture": "zarrel_black.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Zarrel_ender",
+            "geometry": "geometry.zarrel",
+            "texture": "zarrel_ender.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Zarrel_giant",
+            "geometry": "geometry.zarrel_giant",
+            "texture": "zarrel.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Zarrel_black_giant",
+            "geometry": "geometry.zarrel_giant",
+            "texture": "zarrel_black.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Zarrel_ender_giant",
+            "geometry": "geometry.zarrel_giant",
+            "texture": "zarrel_ender.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Zarrel_tiny",
+            "geometry": "geometry.zarrel_tiny",
+            "texture": "zarrel.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Zarrel_black_tiny",
+            "geometry": "geometry.zarrel_tiny",
+            "texture": "zarrel_black.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Zarrel_ender_tiny",
+            "geometry": "geometry.zarrel_tiny",
+            "texture": "zarrel_ender.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Wither",
+            "geometry": "geometry.wither",
+            "texture": "wither.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Iron_golem",
+            "geometry": "geometry.iron_golem",
+            "texture": "iron_golem.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Piglin",
+            "geometry": "geometry.piglin",
+            "texture": "piglin.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Piglin_brute",
+            "geometry": "geometry.piglin",
+            "texture": "piglin_brute.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Piglin_zombie",
+            "geometry": "geometry.piglin",
+            "texture": "zombie_piglin.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Blaze",
+            "geometry": "geometry.blaze",
+            "texture": "blaze.png",
+            "type": "free",
+            "hide_armor": true,
+            "animations": {
+                "humanoid_base_pose": "animation.blaze.move"
+            }
+        },
+        {
+            "localization_name": "Warden",
+            "geometry": "geometry.warden",
+            "texture": "warden.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Armor_stand",
+            "geometry": "geometry.armor_stand",
+            "texture": "armor_stand.png",
+            "type": "free",
+            "animations": {
+                "sneaking": "animation.armor_stand.hero_pose"
+            }
+        },
+        {
+            "localization_name": "Trex",
+            "geometry": "geometry.trex",
+            "texture": "trex.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Dubenderdragao",
+            "geometry": "geometry.dubenderdragao",
+            "texture": "dubenderdragao.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Dubenderdragao_2",
+            "geometry": "geometry.dubenderdragao_2",
+            "texture": "dubenderdragao_2.png",
+            "type": "free",
+            "hide_armor": true
+        },
+        {
+            "localization_name": "Helix",
+            "geometry": "geometry.helix",
+            "texture": "helix.png",
+            "type": "free",
+            "hide_armor": true
+        }
+    ],
+    "serialize_name": "dubender_skin",
+    "localization_name": "dubender_skin"
+}
